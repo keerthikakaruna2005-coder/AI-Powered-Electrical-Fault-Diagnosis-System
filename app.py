@@ -8,7 +8,7 @@ from reportlab.pdfgen import canvas
 import io
 
 # ================= MODEL =================
-model = joblib.load("models/fault_model.pkl")
+model = joblib.load("fault_model.pkl")
 
 # ================= PAGE CONFIG =================
 st.set_page_config(page_title="⚡ Smart Grid SCADA System", layout="wide")

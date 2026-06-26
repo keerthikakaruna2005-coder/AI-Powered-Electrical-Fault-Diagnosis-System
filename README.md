@@ -1,6 +1,14 @@
 <p align="center">
   <img src="images/banner.png" width="100%">
 </p>
+
+# Hi 👋 I'm Keerthika K
+
+Electrical & Electronics Engineering Student
+
+🚀 AI • Machine Learning • Python • MATLAB • SQL • Streamlit
+
+Building Intelligent Solutions for Smart Energy & Intelligent Automation
 \# ⚡ Smart Grid SCADA System (AI-Based Electrical Fault Diagnosis)
 
 

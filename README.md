@@ -1,9 +1,9 @@
 <img src="banner.png" width="100%">
-\# ⚡ Smart Grid SCADA System (AI-Based Electrical Fault Diagnosis)
+⚡ Smart Grid SCADA System (AI-Based Electrical Fault Diagnosis)
 
 
 
-\## 🚀 Overview
+ 🚀 Overview
 
 This project is an AI-powered SCADA-inspired Smart Grid Monitoring System that detects electrical faults and evaluates system health in real-time using Machine Learning + Electrical Engineering rules.
 
@@ -13,11 +13,11 @@ This project is an AI-powered SCADA-inspired Smart Grid Monitoring System that d
 
 
 
-\## 🧠 Features
+ 🧠 Features
 
-\- ⚡ AI-based fault prediction (RandomForest)
+ ⚡ AI-based fault prediction (RandomForest)
 
-\- 🏭 SCADA-style control room dashboard
+ 🏭 SCADA-style control room dashboard
 
 \- 📊 Real-time grid health monitoring
 
@@ -35,19 +35,19 @@ This project is an AI-powered SCADA-inspired Smart Grid Monitoring System that d
 
 
 
-\## ⚙️ Tech Stack
+ ⚙️ Tech Stack
 
-\- Python
+ Python
 
-\- Streamlit
+ Streamlit
 
-\- Scikit-learn
+ Scikit-learn
 
-\- Pandas, NumPy
+ Pandas, NumPy
 
-\- Plotly
+ Plotly
 
-\- ReportLab
+ ReportLab
 
 
 
@@ -65,7 +65,7 @@ Input Sensors → Data Processing → ML Model → Rule Engine → SCADA Dashboa
 
 
 
-\## 📊 Fault Types Detected
+ 📊 Fault Types Detected
 
 \- Normal
 

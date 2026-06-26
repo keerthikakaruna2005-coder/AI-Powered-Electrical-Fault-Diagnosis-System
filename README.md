@@ -113,4 +113,5 @@ python train\_model.py
 \# Run dashboard
 
 streamlit run app.py
+https://ai-powered-electrical-fault-diagnosis-system-dxkz4pdtkc75uudpn.streamlit.app/
 
